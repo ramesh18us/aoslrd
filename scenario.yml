@@ -3,4 +3,4 @@ vusers: 10
 pacing: 5
 rampUp: 0
 duration: 10
-tearDown: 0
+tearDown: 7
